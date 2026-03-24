@@ -1,0 +1,14 @@
+For every .cpp analyze:
+
+1. Architecture in C Language
+2. Variables and Data Types
+3. Input / Output (I/O)
+4. Condition Structure
+5. Repeat Structure (Loops)
+6. Array
+7. Function
+8. Preprocessor
+9. Storage Class
+10. Pointer
+11. String
+12. File I/O
